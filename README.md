@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YASH-ROCKSTAR
+- 👋 Hi, I’m @YASH-NIGAM
 - 👀 I’m interested in JAVA and FullStack Development.
 - 🌱 I’m currently learning Data Structrures , REACT and Backend development.
 - 💞 I’m looking to collaborate on Web Development projects.
