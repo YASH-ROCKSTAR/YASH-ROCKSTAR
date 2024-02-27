@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YASH-NIGAM
-- 👀 I’m interested in JAVA and FullStack Development.
-- 🌱 I’m currently learning Data Structrures , REACT and Backend development.
+- 👀 I’m interested in ReactJS ,NextJS, Javascript, TypeScript, Material-UI, Frontend Development
+- 🌱 I’m currently learning NextJS
 - 💞 I’m looking to collaborate on Web Development projects.
-- 📫 How to reach me -- Mail me at  -- yash.nigam_cs19@gla.ac.in .
+- 📫 How to reach me -- Mail me at  -- yashnigam392000@gmail.com .
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YASH-ROCKSTAR&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="YASH-ROCKSTAR" /></p>
 
